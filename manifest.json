@@ -3,8 +3,8 @@
   "name": "APP MODELO",
   "author": "DTI/PF",
   "version": "1.0.0",
-  "icon": "https://github.com/pedroserviio/custom-apps/blob/main/Logo%20PF.png",
+  "icon": "https://raw.githubusercontent.com/pedroserviio/custom-apps/main/Logo%20PF.png",
   "url": "https://github.com/pedroserviio/custom-apps",
-  "source": "https://github.com/pedroserviio/custom-apps/blob/main/f341.sql",
-  "zip": "https://github.com/pedroserviio/custom-apps/blob/main/f341.zip"
+  "source": "https://raw.githubusercontent.com/pedroserviio/custom-apps/main/f341.sql",
+  "zip": "https://raw.githubusercontent.com/pedroserviio/custom-apps/main/f341.zip"
 }
