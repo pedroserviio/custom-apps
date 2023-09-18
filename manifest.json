@@ -8,8 +8,8 @@
             "version": "1.0.0",
             "icon": "https://raw.githubusercontent.com/pedroserviio/custom-apps/main/Logo%20PF.png",
             "url": "https://github.com/pedroserviio/custom-apps",
-            "source": "https://raw.githubusercontent.com/pedroserviio/custom-apps/main/f341.sql",
-            "zip": "https://raw.githubusercontent.com/pedroserviio/custom-apps/main/f341.zip"
+            "source": "https://raw.githubusercontent.com/pedroserviio/custom-apps/main/APP_MODELO.sql",
+            "zip": "https://raw.githubusercontent.com/pedroserviio/custom-apps/main/APP_MODELO.zip"
         }
     ]
 }
