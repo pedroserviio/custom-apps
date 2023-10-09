@@ -7,9 +7,9 @@
             "author": "DTI/PF",
             "version": "1.0",
             "icon": "https://raw.githubusercontent.com/pedroserviio/custom-apps/main/Logo%20PF.png",
-            "url": "https://gitlab.dpf.gov.br/apex/gallery",
-            "source": "https://gitlab.dpf.gov.br/apex/gallery/docs/-/raw/main/APP_MODELO.sql",
-            "zip": "https://gitlab.dpf.gov.br/apex/gallery/docs/-/raw/main/APP_MODELO.zip"
+            "url": "https://github.com/pedroserviio/custom-apps",
+            "source": "https://raw.githubusercontent.com/pedroserviio/custom-apps/main/APP_MODELO.sql",
+            "zip": "https://raw.githubusercontent.com/pedroserviio/custom-apps/main/APP_MODELO.zip"
         }
     ]
 }
